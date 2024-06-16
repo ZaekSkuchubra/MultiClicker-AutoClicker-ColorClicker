@@ -25,4 +25,4 @@ Install the following modules via cmd prompt:
 pip install pyautogui
 pip install Pillow
 
-LOVE YALL XX
+LOVE YALL XOXO
