@@ -4,18 +4,14 @@ Run the MultiClicker file and your computer will load the interface which naviga
 /\/\/\ColorClicker/\/\/\
 ------------------------
 Autoclicks untill a color changes on the cursor point.
-
 /\/\/\AutoClicker/\/\/\
 ------------------------
 Autoclicks untill you stop/ interrupt it.
-
-
 Possibillities and troubleshooting cases of script faulure:
 -Unavailable Modules
 -Unavailable Python 
 -Code and file missplacement
 -Damaged Files or code
-
 IN SCENARIOS OF:
 --Broken Files // Reinstall all files
 --Missplacement// Look at the file structures in this rep.
@@ -24,5 +20,4 @@ IN SCENARIOS OF:
 Install the following modules via cmd prompt:
 pip install pyautogui
 pip install Pillow
-
 LOVE YALL XOXO
